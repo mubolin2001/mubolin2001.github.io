@@ -4,6 +4,69 @@
   
   
   <entry>
+    <title>1/3 tech</title>
+    <link href="/2025/05/13/1-3-tech/"/>
+    <url>/2025/05/13/1-3-tech/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1-3-个人总结思路"><a href="#1-3-个人总结思路" class="headerlink" title="1&#x2F;3$ 个人总结思路"></a>1&#x2F;3$ 个人总结思路</h1><p>1&#x2F;3$现金桌其实是比较好打的，很多玩家都是跟注站，基本只会用强牌加注，只要做好一定的偏移，剥削他们是很容易的一件事情。</p><h2 id="翻前（pre-flop）"><a href="#翻前（pre-flop）" class="headerlink" title="翻前（pre-flop）"></a>翻前（pre-flop）</h2><h3 id="缩紧手牌范围"><a href="#缩紧手牌范围" class="headerlink" title="缩紧手牌范围"></a>缩紧手牌范围</h3><p>1&#x2F;3玩家池有一个十分普遍的问题：翻前跟注过多，翻后弃牌过多（play too much on pre-flop, and fold too much on post-flop）。所以，要想从这些玩家中赢钱，就要缩紧自己的手牌范围（<b>TODO：之后会出一个手牌范围的post</b>）。这样做是为了：</p><ul><li>每次当你进入翻后时，都可以以更好的手牌和对面更差的手牌游戏，长期来讲是很盈利的。</li><li>弃掉自己的边缘手牌可以很大程度防止自己被kicker压制输大钱（e.g. 9J进去中J顶对，面对对面三枪下注是很难受的）。</li></ul><h2 id="翻后（post-flop）"><a href="#翻后（post-flop）" class="headerlink" title="翻后（post-flop）"></a>翻后（post-flop）</h2><h3 id="不要过度“保护”自己的手牌"><a href="#不要过度“保护”自己的手牌" class="headerlink" title="不要过度“保护”自己的手牌"></a>不要过度“保护”自己的手牌</h3><p>低额玩家池翻后很普遍的一个问题就是：经常overbet自己不应该bet的牌，美其名曰“保护”。但我觉得这个理论是完全错误的。比如说：当你有QTo 在Q 9 7 两♣️的多人池翻牌面，很多人都会选择c-bet，但我觉得种打法不是一种profitable的打法。确实，你的top pair在这种潮湿面很脆弱，也大概率是领先的。但是，你真的领先很多吗？且不说很多花顺抽牌会跟注进来，还会被很多AQ，KQ跟注。你能领先的牌不会领先太多（转牌出花顺），但是你所落后的牌（AQ，KQ）可是遥遥落后，并且在这里的多人池下注，你还会打走很多9X，7X。所以这种牌，我感觉check控池是一个profitable的打法，如果位置好，所有人在转牌check到你，再打也不迟。</p><p>hint：不要高估下重注能打走对方这种思想，有时候他们中牌就会一直call你到底，而你不打他们就check，所以这些有摊牌价值的牌还是摊牌比较好，不要给这帮老头送钱。</p><h3 id="不要慢打"><a href="#不要慢打" class="headerlink" title="不要慢打"></a>不要慢打</h3><p>什么是慢打：当你的手牌有三条街（或潜在三条街）的价值时，你选择check。比如翻牌中set，顶两对这些牌，不要想着：哎我蹲这帮老头一枪，转牌再打他们就不信我有牌了就会call我。这种想法是完全错误的，原因有下：</p><ul><li>你的翻牌set，top two pair，甚至极端一点，顶对顶T，这些牌拿的是那些中牌了但是比你中的牌小的那些牌的价值，而不是 flop miss的价值。因为像我说的，他们会过度游戏翻前手牌，所以他们很容易中一些奇奇怪怪的中对，底对，甚至顶对弱T，这些牌在flop都是有可能call住你的，我感觉这是盈利的主要来源，而如果你在翻牌check这些牌，会错失很大一部分这些价值，而且那些flop miss在turn也大概率会miss（因为flop三张牌都没中，你指望他转牌一张就中？）</li><li>即使他们翻牌会过度弃牌，但是一旦他们翻牌中了一些牌，他们一般是不会弃牌的（下面会讲）。</li></ul><p>需要注意： 在一个干燥面check自己的顶对顶T是不算slowplay的，因为：</p><ul><li>顶对顶T本来就没有三枪价值，尤其是在干燥面中。</li><li>控池，防止转牌河牌吃raise之后陷入难受境地。</li><li>同时也能隐藏一下自己的牌力，让转牌，河牌拿到更多的价值（比如中对子，顶对弱T）</li></ul><h3 id="阈值问题"><a href="#阈值问题" class="headerlink" title="阈值问题"></a>阈值问题</h3><p>在这种低额现金桌，很多人中牌了之后不管你打多少都会call，miss了之后不管你打多少都fold，这里可以分为两部分：</p><h4 id="1st：-中了不管打多少都call"><a href="#1st：-中了不管打多少都call" class="headerlink" title="1st： 中了不管打多少都call"></a>1st： 中了不管打多少都call</h4><p>我上周一个局上面，有个老头拿着AQ，A顶对在一个单张成顺的面call了一个600多的底池，然后被对面两对杀了😓。这个老头还那种很气愤的亮出自己的AQ，生气的走了。所以面对这种b，要：</p><ul><li>当你中了set，两对这种牌，拿价值不要手软，尽量连打三枪，大部分时候他们会拿比你小的牌跟注到底。</li><li>心态管理：记住这是poker，not chess。有时候你可能会被set，更大的两对杀掉，但是这是小概率事件。不能因为这些来影响你的长期决策。</li></ul><h4 id="2nd：-miss之后不管打多少都fold"><a href="#2nd：-miss之后不管打多少都fold" class="headerlink" title="2nd： miss之后不管打多少都fold"></a>2nd： miss之后不管打多少都fold</h4><p>这种情况也很常见，当你手持AQopen了之后，call了两家，翻牌 小小小，你cbet一枪两人都call住，这时底池很大了已经，let’s say 100$,转牌再出无关张，这时如果你想target他们的两高张，甚至底对，你只需要打个15，20$, 而不是60$。因为这些也牌会fold给你的20$。如果他们call住了，河牌check fold就好了。属于一个偏移剥削吧，因为他们翻后的抵抗不足。</p><h3 id="fold牌键很重要"><a href="#fold牌键很重要" class="headerlink" title="fold牌键很重要"></a>fold牌键很重要</h3><p>你手持QKo，翻牌 8 9 K 两♣️，你c bet对面call。转牌5♣️，对面突然donk allin或一个特别大的注，你怎么办？想都不要想就直接fold就好了。面对这种极其不合理的大注，在这种低额现金局95%就是中大牌了。除非你觉得你的牌能大过这些大牌，否则想都不要想，fold掉就好了。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>poker thoughts</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>A8s vs UTG open</title>
+    <link href="/2025/05/05/A8s-CO-vs-UTG-SRP/"/>
+    <url>/2025/05/05/A8s-CO-vs-UTG-SRP/</url>
+    
+    <content type="html"><![CDATA[<!-- <div style="display:flex;align-items:center;gap:12px;margin-bottom:1rem;"><img src="/cards/ace_of_spades.png" alt="As" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"><img src="/cards/king_of_clubs.png" alt="Kc" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"></div> 这是用法，会出现黑桃A， 草花K --><!-- <div class="poker-pot">💰 pot：<strong>$0</strong></div> 添加注码到底池中--><h1 id="🃏"><a href="#🃏" class="headerlink" title="🃏 "></a>🃏 A8s vs UTG open</h1><h2 id="信息"><a href="#信息" class="headerlink" title="信息"></a>信息</h2><p>2025&#x2F;05&#x2F;02 rivers casino, 1$&#x2F;3$ with rake 5$ max.</p><h2 id="🔁-翻前-Pre-Flop"><a href="#🔁-翻前-Pre-Flop" class="headerlink" title="🔁 翻前 Pre-Flop"></a>🔁 翻前 Pre-Flop</h2><div style="display:flex;align-items:center;gap:12px;margin-bottom:1rem;"><img src="/cards/ace_of_diamonds.png" alt="Ad" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"><img src="/cards/8_of_diamonds.png" alt="8d" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"></div><p>我手持A8♦️在CO位call住前位墨西哥小登open 12，除了我还有2家跟注，4人进入翻牌。</p><div class="poker-pot">💰 pot：<strong>$48</strong></div><hr><h2 id="🌱-翻牌-Flop"><a href="#🌱-翻牌-Flop" class="headerlink" title="🌱 翻牌 Flop"></a>🌱 翻牌 Flop</h2><div style="display:flex;align-items:center;gap:12px;margin-bottom:1rem;"><img src="/cards/3_of_diamonds.png" alt="3d" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"><img src="/cards/4_of_diamonds.png" alt="4d" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"><img src="/cards/10_of_hearts.png" alt="10h" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"></div><p>翻牌3 4 T 两♦️，我听nuts花，前位墨西哥小登c-bet 21，我call，SB call。</p><div class="poker-pot">💰 pot：<strong>$111</strong></div><hr><h2 id="🔥-转牌-Turn"><a href="#🔥-转牌-Turn" class="headerlink" title="🔥 转牌 Turn"></a>🔥 转牌 Turn</h2><div style="display:flex;align-items:center;gap:12px;margin-bottom:1rem;"><img src="/cards/3_of_diamonds.png" alt="3d" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"><img src="/cards/4_of_diamonds.png" alt="4d" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"><img src="/cards/10_of_hearts.png" alt="10h" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"><img src="/cards/queen_of_clubs.png" alt="Qc" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"></div><p>转牌Q♣️， check around。</p><div class="poker-pot">💰 pot：<strong>$111</strong></div><p>…</p><h2 id="🧨-河牌-River"><a href="#🧨-河牌-River" class="headerlink" title="🧨 河牌 River"></a>🧨 河牌 River</h2><div style="display:flex;align-items:center;gap:12px;margin-bottom:1rem;"><img src="/cards/3_of_diamonds.png" alt="3d" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"><img src="/cards/4_of_diamonds.png" alt="4d" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"><img src="/cards/10_of_hearts.png" alt="10h" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"><img src="/cards/queen_of_clubs.png" alt="Qc" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"><img src="/cards/4_of_hearts.png" alt="4h" style="width:60px;height:auto;margin-right:12px;border-radius:6px;box-shadow:0 4px 8px rgba(0,0,0,0.2);object-fit:contain;"></div><p>河牌4♥️，check到我，我偷了一枪40， 被中位77call住。</p><div class="poker-pot">💰 pot：<strong>$191</strong></div><p>…</p><h2 id="💡-总结分析-GTO"><a href="#💡-总结分析-GTO" class="headerlink" title="💡 总结分析 &amp; GTO"></a>💡 总结分析 &amp; GTO</h2><h3 id="pre-flop"><a href="#pre-flop" class="headerlink" title="pre-flop"></a>pre-flop</h3><p>A8♦️其实在CO是挺边缘的一手牌，但是由于低额现金桌没那么多3-bet，而且我们桌子偏被动，这里有利位置偏移进去抽花有很大的equity，临场选择跟注没什么问题。</p><h3 id="flop"><a href="#flop" class="headerlink" title="flop"></a>flop</h3><p> nuts花听牌，简单跟注没别的选择，而且前位除了我还有一家跟注，可以让c-bet的人小心行事。</p><h3 id="turn"><a href="#turn" class="headerlink" title="turn"></a>turn</h3><p> 这里是我打的比较有问题的地方了—转牌应该是在有利位置打一枪的。<br> 我有大量equity（A-high + nut flush draw），两人check牌里明显封顶，我在这里应该是一个下注（比如打个40-60% pot），可以直接拿下底池，或者至少构建一个可以偷河牌的line。而我check back使得你在河牌上没有很强的代表性（很难代表Qx或set）。</p><h3 id="river"><a href="#river" class="headerlink" title="river"></a>river</h3><p>我这里下注40被秒call，又是一个小错误—如果我转牌选择check back，河牌就应该是一个放弃：</p><ul><li><p>我代表不了什么价值牌。像TP、TK、Qx甚至set在turn就应该下注保护了。</p></li><li><p>77虽然只是一个中对，但在我这个line下，它可以合理地怀疑你在偷，并且call得合理。</p></li></ul><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><ul><li><p>Turn错过了构建可信诈唬线的机会。我拥有最大潜在equity，应该下注为bluff&#x2F;semi-bluff做准备。</p></li><li><p>River bluff缺乏故事支持，没有turn下注铺垫，导致value范围过于狭窄，对手容易看穿。</p></li></ul><p>因为我很少在赌场抽这种nuts花，一般我在中位拿到这种牌面对open就是一个fold掉了，但是这次的equity比较高且在后位，所以call了进去，因为没有类似经验，所以对turn和river的line构筑不够合理，再加上当时刚刚从小水下爬上来有点怕掉码，导致操作不太好，对于我来说还是比较值得学习的一手牌。正确的做法应该是：</p><ul><li>转牌下注 40%-60% 左右的底池，河牌再次一个40%或者更重（但在低额现金桌有时不需要太重的注码就可以打走对面），这样才是一个合理的line。<br>…</li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>手牌分析</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>05-02-2025</title>
+    <link href="/2025/05/05/05-02-2025/"/>
+    <url>/2025/05/05/05-02-2025/</url>
+    
+    <content type="html"><![CDATA[<h1 id="🏆-Session-Overview"><a href="#🏆-Session-Overview" class="headerlink" title="🏆 Session Overview"></a>🏆 Session Overview</h1><ul><li><strong>日期 (Date)</strong>: 05-02-2025</li><li><strong>地点 (Location)</strong>: rivers casino</li><li><strong>游戏类型 (Game Type)</strong>: 1$&#x2F;3$ cash game</li><li><strong>Session 时长 (Duration)</strong>: About 5 hours</li><li><strong>买入 (Buy-in)</strong>: 500$</li><li><strong>结算 (Cash-out)</strong>: 1120$</li><li><strong>盈利 (Profit&#x2F;Loss)</strong>: 620$</li></ul><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>时间很长而且总体来说运气不错的session，打的可圈可点，有nice call也有bad call，值得反思的session。有几手牌其实是可以fold的掉的，但是由于心态管理不到位还是call了导致少了200$左右的盈利，总体来说还是需要学习的。</p><h2 id="Hand-1-听花不中bluff被对手惩罚"><a href="#Hand-1-听花不中bluff被对手惩罚" class="headerlink" title="Hand 1 听花不中bluff被对手惩罚"></a>Hand 1 <a href="/2025/05/05/A8s-CO-vs-UTG-SRP/">听花不中bluff被对手惩罚</a></h2><ul><li>当flop听nuts花时，后位应当如何构筑一个合理的line</li><li>如何保持对合理bluff的心态</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>Casino Poker Session</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Poker Session</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>SB 24s vs BB JJ</title>
     <link href="/2025/05/01/SB-24-vs-BB-JJ/"/>
     <url>/2025/05/01/SB-24-vs-BB-JJ/</url>
@@ -42,7 +105,7 @@
   
   
   <entry>
-    <title>04-26-2025</title>
+    <title>04-26-2025 rivers casino</title>
     <link href="/2025/04/26/04-26-2025/"/>
     <url>/2025/04/26/04-26-2025/</url>
     
